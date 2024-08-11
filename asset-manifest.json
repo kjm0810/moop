@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moop/static/css/main.ff431009.css",
+    "main.js": "/moop/static/js/main.2b60bc08.js",
+    "static/js/453.e421558f.chunk.js": "/moop/static/js/453.e421558f.chunk.js",
+    "index.html": "/moop/index.html",
+    "main.ff431009.css.map": "/moop/static/css/main.ff431009.css.map",
+    "main.2b60bc08.js.map": "/moop/static/js/main.2b60bc08.js.map",
+    "453.e421558f.chunk.js.map": "/moop/static/js/453.e421558f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff431009.css",
+    "static/js/main.2b60bc08.js"
+  ]
+}
